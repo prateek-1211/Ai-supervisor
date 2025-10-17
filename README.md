@@ -44,11 +44,8 @@ human-in-the-loop-ai/
 │ │ ├── App.js
 │ │ └── api.js
 └── README.md
-
-yaml
-Copy code
-
-## Demo Video : https://drive.google.com/file/d/1Wp4H6gS16rENi58QBmKF6P4v7EJTYPBD/view?usp=sharing
+ 
+Demo Video : https://drive.google.com/file/d/1Wp4H6gS16rENi58QBmKF6P4v7EJTYPBD/view?usp=sharing
 
 ---
 
